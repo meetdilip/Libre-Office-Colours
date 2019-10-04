@@ -12,6 +12,9 @@ Once you add the .gpl file in this repository to `/home/myname/.config/inkscape/
 That's all. You have the palette, let your creativity flow :)
 
 As for Windows 10, you can use C:\Program Files\Inkscape\share\palettes<br>
+<br>
 Mac users might find  ~/inkscape/palettes useful
+<br>
+Since this is a .gpl file, it will work with GIMP as well.
 
 I really hope this will be useful in creating great art work for Libre Office. 
